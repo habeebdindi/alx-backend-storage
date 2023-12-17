@@ -1,1 +1,1 @@
-## This repository contains directories with python files.
+## This repository contains directories with SQL scripts.
