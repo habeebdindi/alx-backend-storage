@@ -1,2 +1,2 @@
 // script that creates or uses the database my_db
-db.school.insertMany({"name": "Holberton school"})
+db.school.insert({"name": "Holberton school"})
