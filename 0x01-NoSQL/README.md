@@ -1,0 +1,1 @@
+## This directory contains mongoDB command files and python scripts performing certain functions
