@@ -2,8 +2,7 @@
 """This module contains one function"""
 
 
-if __name__ == "__main__":
-    def schools_by_topic(mongo_collection, topic):
-        """function that returns the list of school having a specific topic
-        """
-        return mongo_collection.find({"topics": topic})
+def schools_by_topic(mongo_collection, topic):
+    """function that returns the list of school having a specific topic
+    """
+    return mongo_collection.find({"topics": topic})
