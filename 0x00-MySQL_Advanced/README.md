@@ -1,0 +1,1 @@
+## This repository contains SQL scripts peforming certain database operations.
